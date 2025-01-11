@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\data structures university\Assignment2\Sol\Sol\tag_functions.h(14,29): warning C4244: 'initializing': conversion from 'std::streamoff' to 'long', possible loss of data
+D:\data structures university\Assignment2\Sol\Sol\FileRead_Stack.h(57,1): warning C4302: '<function-style-cast>': truncation from 'const char *' to 'char'
+D:\data structures university\Assignment2\Sol\Sol\Notations.h(27): message : see reference to function template instantiation 'type Top<char>(Stack<type> *)' being compiled
+          with
+          [
+              type=char
+          ]
+D:\data structures university\Assignment2\Sol\Sol\Notations.h(77): warning C4715: 'valid_paranthesis': not all control paths return a value
+D:\data structures university\Assignment2\Sol\Sol\Notations.h(154): warning C4715: 'solve': not all control paths return a value
+  Sol.vcxproj -> D:\data structures university\Assignment2\Sol\x64\Debug\Sol.exe
