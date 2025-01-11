@@ -14,6 +14,8 @@ This assignment focuses on using stack and queue data structures to handle vario
      sudo apt-get update
      sudo apt-get install libopencv-dev
      ```
+     **Windows**:
+     Method is described below for setting up OpenCv on Windows
 
 3. **Test Files**: Place your text files in the `Test_files` folder for parsing and processing.
 4. **Images**: Place images in the `Images` folder to be processed and detected.
@@ -43,13 +45,13 @@ This assignment focuses on using stack and queue data structures to handle vario
 ### Step 1: Setup the Environment
 Make sure you have the necessary dependencies installed. Specifically, install OpenCV for image processing:
 
-1. Install OpenCV and Set Environment Variables
-Follow the steps in this YouTube tutorial to:
-   1.ownload and install OpenCV.
-   2.Set environment variables for OpenCV to ensure compatibility with Visual Studio.
+1. Install OpenCV and Set Environment Variables  
+   Follow the steps in this [YouTube tutorial](https://www.youtube.com/watch?v=aMXQshF7zdo) to:  
+   1. Download and install OpenCV.  
+   2. Set environment variables for OpenCV to ensure compatibility with Visual Studio.
 
-2. Configure Project Paths
-After setting up OpenCV, configure the paths in the Visual Studio project files to ensure the project compiles and runs successfully. Update the include directories and linker settings as needed.
+2. Configure Project Paths  
+   After setting up OpenCV, configure the paths in the Visual Studio project files to ensure the project compiles and runs successfully. Update the include directories and linker settings as needed.
 
 ### Step 2: Run the Code using Visual Studio
 This will process all the text files in the `Test_files` folder, handle the LRU cache, process images, and save outputs in the `Output_files` folder.
